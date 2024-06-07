@@ -1,0 +1,42 @@
+Datos: FCSZXVFSDZFV
+
+
+Datos: SADSADAS
+
+
+Datos: SADSADAS
+
+
+Datos: 45465456
+
+
+Datos: Figura seleccionada: Cuadrado, 
+Sus datos son:
+Longitud del lado: 6
+Area= 
+Perimetro= 
+Volumen, no se calcula en figuras planas 
+
+
+
+Datos: Figura seleccionada Triangulo, Sus datos son:123
+Area= 
+Perimetro= 
+Volumen, no se calcula en figuras planas 
+
+
+
+Datos: Figura seleccionada Rectangulo, Sus datos son:41545
+Area= 
+Perimetro= 
+Volumen, no se calcula en figuras planas 
+
+
+
+Datos: Figura seleccionada Rectangulo, Sus datos son:41545
+Area= 
+Perimetro= 
+Volumen, no se calcula en figuras planas 
+
+
+

@@ -1,0 +1,27 @@
+C:\Users\Licenciaturas\Downloads\FiguraGeometrica\bin\Debug\FiguraGeometrica.exe.config
+C:\Users\Licenciaturas\Downloads\FiguraGeometrica\bin\Debug\FiguraGeometrica.exe
+C:\Users\Licenciaturas\Downloads\FiguraGeometrica\bin\Debug\FiguraGeometrica.pdb
+C:\Users\Licenciaturas\Downloads\FiguraGeometrica\obj\Debug\FiguraGeometrica.csproj.AssemblyReference.cache
+C:\Users\Licenciaturas\Downloads\FiguraGeometrica\obj\Debug\FiguraGeometrica.Form1.resources
+C:\Users\Licenciaturas\Downloads\FiguraGeometrica\obj\Debug\FiguraGeometrica.Properties.Resources.resources
+C:\Users\Licenciaturas\Downloads\FiguraGeometrica\obj\Debug\FiguraGeometrica.csproj.GenerateResource.cache
+C:\Users\Licenciaturas\Downloads\FiguraGeometrica\obj\Debug\FiguraGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\Licenciaturas\Downloads\FiguraGeometrica\obj\Debug\FiguraGeometrica.exe
+C:\Users\Licenciaturas\Downloads\FiguraGeometrica\obj\Debug\FiguraGeometrica.pdb
+C:\Users\Licenciaturas\Downloads\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\obj\Debug\FiguraGeometrica.csproj.AssemblyReference.cache
+C:\Users\Licenciaturas\Downloads\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\obj\Debug\FiguraGeometrica.Form1.resources
+C:\Users\Licenciaturas\Downloads\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\obj\Debug\FiguraGeometrica.Properties.Resources.resources
+C:\Users\Licenciaturas\Downloads\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\obj\Debug\FiguraGeometrica.csproj.GenerateResource.cache
+C:\Users\Licenciaturas\Downloads\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\obj\Debug\FiguraGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\Licenciaturas\Downloads\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\obj\Debug\FiguraGeometrica.exe
+C:\Users\Licenciaturas\Downloads\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\obj\Debug\FiguraGeometrica.pdb
+D:\Ejercicios POO\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\obj\Debug\FiguraGeometrica.Form1.resources
+D:\Ejercicios POO\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\obj\Debug\FiguraGeometrica.csproj.GenerateResource.cache
+D:\Ejercicios POO\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\bin\Debug\FiguraGeometrica.exe.config
+D:\Ejercicios POO\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\bin\Debug\FiguraGeometrica.exe
+D:\Ejercicios POO\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\bin\Debug\FiguraGeometrica.pdb
+D:\Ejercicios POO\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\obj\Debug\FiguraGeometrica.Properties.Resources.resources
+D:\Ejercicios POO\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\obj\Debug\FiguraGeometrica.csproj.CoreCompileInputs.cache
+D:\Ejercicios POO\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\obj\Debug\FiguraGeometrica.exe
+D:\Ejercicios POO\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\obj\Debug\FiguraGeometrica.pdb
+D:\Ejercicios POO\Figura_Geometrica_m37-main\Figura_Geometrica_m37-main\FiguraGeometrica\obj\Debug\FiguraGeometrica.csproj.AssemblyReference.cache
